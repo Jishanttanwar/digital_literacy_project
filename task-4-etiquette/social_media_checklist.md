@@ -1,10 +1,10 @@
 # Social Media Do's and Don'ts for College Students
 
-**CSE0001 – Digital Literacy | Task 4 | Aryan Sharma (24BCE0001)**
+*CSE0001 – Digital Literacy | Task 4 | Jishant Tanwar (25BHI10093)*
 
----
 
-## ✅ DO's
+
+# DO's
 
 1. **Think before you post** – Ask yourself: "Would I be comfortable if my professor or future employer saw this?" If not, don't post it.
 2. **Keep your LinkedIn profile updated** – Add new courses, certifications, and projects at least once a semester.
@@ -15,9 +15,9 @@
 7. **Report cyberbullying** – If you witness or experience harassment online, use the platform's report feature and contact cybercrime.gov.in if needed.
 8. **Separate personal and professional accounts** – Use one account for casual posts (friends, memes) and a separate professional one for academic/career networking.
 
----
 
-## ❌ DON'Ts
+
+# DON'Ts
 
 1. **Don't share your location in real time** – Posting "at XYZ restaurant right now" can make you a target for crime or stalking.
 2. **Don't post offensive or controversial content** – Even "jokes" can be taken out of context and damage your reputation years later. Screenshots last forever.
@@ -30,4 +30,4 @@
 
 ---
 
-*This checklist was created as part of the CSE0001 Digital Literacy Project – Task 4, VIT Bhopal University, 2024–25.*
+*This checklist was created as part of the CSE0001 Digital Literacy Project – Task 4, VIT Bhopal University, 2025-26.*

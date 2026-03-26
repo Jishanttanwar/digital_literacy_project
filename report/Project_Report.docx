@@ -1,0 +1,82 @@
+
+Project Report
+
+Name- Jishant Tanwar
+Reg. no. - 25BHI10093
+Branch - CSE
+Year - 1st (2025-26)
+Course code - CSE0001
+Course title - Digital Literacy
+Date of submission - March 2026
+
+Introduction
+This project report documents my work as a Student Digital Ambassador for the CSE0001 Digital Literacy course at VIT Bhopal University. The objective of this project is to build a comprehensive Digital Literacy Portfolio that I can present to the faculty committee and share with my batch.
+The portfolio consists of five tasks, each mapping to one module of the course. Through these tasks, I have created a digital literacy infographic, set up professional online profiles, explored coding and collaboration platforms, practised professional email writing, and researched cybercrime awareness. All deliverables are organised in a single public GitHub repository.
+No prior coding knowledge was required to complete this project. Every tool used is free and browser-based. The project has given me a practical introduction to the digital tools and habits that will be essential throughout my academic and professional career.
+
+-->Task 1 – Digital Literacy Awareness Infographic
+Tool Used
+I used Canva (canva.com) to design the infographic. Canva is a free, browser-based graphic design tool that provides drag-and-drop templates, icon libraries, and a professional colour palette. I chose Canva because it requires no design experience and produces polished outputs that are easy to export.
+What My Design Shows
+The infographic is a single-page visual resource titled "Digital Literacy – A Guide for First-Year Students." It is divided into six colour-coded sections arranged in a 2×3 grid:
+What is Digital Literacy – A brief definition and four key dimensions (Find, Create, Stay Safe, Communicate)
+Safe Internet Practices – Six actionable tips including using strong passwords, enabling 2FA, and never sharing OTPs
+Professional Online Presence – Five steps to building a digital profile (GitHub, LinkedIn, Kaggle)
+Useful Digital Tools – Five recommended tools: Canva, Google Drive, HackerRank, Notion, and Grammarly
+Email Etiquette – Six rules for professional communication with professors and recruiters
+Cybercrime Warning Signs – Common red flags and the national cybercrime helpline 1930
+A statistics bar at the bottom highlights four impactful data points: global internet users, annual losses to cyber fraud in India, the 1930 helpline number, and the average time a user takes to fall for a phishing link.
+Reflection
+The most interesting challenge was deciding what not to include. Digital literacy is a broad topic, and limiting each section to six bullet points required me to think carefully about what information is most relevant to a first-year student. The most difficult part was choosing a colour scheme — I wanted the infographic to look professional and readable without being monotonous. I eventually settled on six distinct pastel shades, each representing a different theme. This exercise taught me that effective visual communication is as much about restraint as it is about design.
+
+-->Task 2 – Student Digital Portfolio
+Platforms Set Up
+I created and configured accounts on three professional platforms: GitHub, LinkedIn, and Kaggle.
+GitHub is the world's largest platform for hosting code and collaborating on software projects. On GitHub, I created a profile README — a special public repository named after my username — containing my name, branch, year, and one sentence about what I hope to learn: "I am a first-year CSE student at VIT Bhopal, eager to learn data structures, Python, and eventually contribute to open-source projects."
+LinkedIn is the leading professional networking site used by recruiters and hiring managers worldwide. I filled in the Education section with my B.Tech (Computer Science & Engineering) degree at VIT Bhopal University and my expected graduation year (2029).
+Kaggle is a data science and machine learning competition platform run by Google. Even as a first-year student, having a Kaggle profile signals to future employers that I am interested in data science and am aware of the tools used in the field.
+Future Plans
+Over the next four years, I plan to use these platforms strategically. On GitHub, I will push all my lab assignments starting from Semester 1, and by third year I aim to have at least 10 original projects publicly visible. On LinkedIn, I will update my profile with each internship, certification, and major project. By second year, I will begin connecting with VIT Bhopal alumni and seniors for career guidance. On Kaggle, I will complete beginner Python notebooks in my first year and participate in entry-level competitions once I have covered data structures and basic machine learning in my coursework.
+
+-->Task 3 – Coding & Collaboration Platforms
+Part A – Coding Practice (HackerRank)
+I created an account on HackerRank and completed two beginner-level challenges. The first was "Solve Me First" under the Algorithms section, which requires writing a function to add two numbers. Although the problem is simple, it taught me how HackerRank handles input/output — a concept that is essential for all future challenges on the platform. I received a score of 1/1 and earned the corresponding badge.
+The second challenge was the "Python: Introduction" challenge, which tests basic print statements and variable assignments. Both challenges were completed successfully, and screenshots are saved in task-3-platforms/ in the repository.
+Part B – Google Workspace (Digital Literacy Quiz)
+I built a 5-question Digital Literacy Awareness Quiz using Google Forms. The form includes two multiple choice questions (about safe passwords and unknown OTP requests), two short answer questions (about professional networking platforms and the national cybercrime helpline), and one additional multiple choice question about what digital literacy means. The form is linked to a Google Sheet that collects responses in real time.
+Reflection
+HackerRank showed me how standardised programming challenges work — something I had never thought about before. The Google Forms exercise was unexpectedly valuable: building quiz questions forced me to think about what digital literacy means to a student who has never studied it. I realised that most people know they should use "strong passwords" but very few know what makes a password strong. Both tools — HackerRank for practising technical skills, and Google Forms for collaboration and data collection — will be useful throughout my degree, from lab assessments to research surveys.
+
+-->Task 4 – Professional Email & Etiquette Guide
+Emails Written
+I wrote two professional emails following all standard email etiquette rules. Both emails are saved in task-4-email-etiquette/ in the repository.
+Email 1 is a deadline extension request addressed to Dr. Mehta for a Data Structures Lab assignment. The email states the reason (medical illness), requests a specific extension period (two days), acknowledges the inconvenience, offers a medical certificate as proof, and includes a complete sign-off with registration number and college email.
+Email 2 is an internship interest email to the coordinator of a fictional company, TechNova Solutions. It introduces me, mentions my current academic focus, explains why I am interested in the company, provides my GitHub link as evidence of my work, and requests a conversation at their convenience.
+Communication Scenario – What Poor Digital Communication Looks Like
+A real-world type scenario that illustrates poor digital communication: A student sends a WhatsApp message to their professor saying "sir pls extend deadline" with no context, no subject, no formal greeting, and no identification. The professor receives dozens of such messages and has no way to know which student this is, which course they are referring to, or what the reason is. The student receives no response and misses the deadline.
+What could have been done differently: The student should have sent a formal email with a clear subject line (e.g., "Request for Extension – CSE2001 Lab Assignment"), a professional greeting ("Dear Dr. [Name]"), a structured explanation, and a polite sign-off with their name and registration number. A well-written email takes less than five minutes to compose but can make the difference between a positive outcome and a missed opportunity.
+
+-->Task 5 – Cybercrime Awareness Case Study & Prevention Guide
+Cybercrime Type Chosen: UPI / Online Payment Fraud
+I chose UPI fraud because it is one of the most common cybercrimes affecting young people in India today, and because it exploits a specific misunderstanding about how UPI QR codes work — a misunderstanding that can be corrected with a single sentence of awareness.
+What Surprised Me Most
+The thing that surprised me most while researching this topic was how technically simple most UPI fraud attacks are. The attacker does not need to hack any system, break any encryption, or use sophisticated malware. They simply exploit one misunderstanding: that scanning a QR code in a UPI app always initiates a payment, never a receipt. The entire scam depends on the victim not knowing this one fact. This made me realise that cybercrime awareness is not about understanding complex technology — it is about knowing a handful of simple, concrete rules.
+One Habit I Will Personally Change
+As a result of this research, I will start verifying the source of every QR code before scanning it, especially in financial contexts. Previously, I assumed that a QR code was just a shortcut — a neutral piece of information. Now I understand that in a UPI context, scanning a QR code is equivalent to authorising a payment. I will also make it a habit to share this specific fact with family members who use UPI regularly, since they may be unaware of this risk.
+
+->Conclusion
+This project has been one of the most practically useful assignments I have done since joining VIT Bhopal University. Across the five tasks, I set up a professional GitHub profile, explored coding platforms, built a Google Form quiz, practised formal email writing, and researched a real cybercrime type that affects students in India every day.
+The most important lesson I take away from this project is that digital literacy is not a single skill — it is a collection of habits, platforms, and awareness that compound over time. Every account I set up, every email I practise writing, and every scam I learn to recognise makes me a more capable and responsible digital citizen. I look forward to building on this foundation throughout my four years at VIT Bhopal.
+
+->References
+National Cyber Crime Reporting Portal – cybercrime.gov.in (accessed March 2026)
+Reserve Bank of India – UPI Safety Advisory – rbi.org.in (accessed March 2026)
+NPCI (National Payments Corporation of India) – UPI User Safety Guidelines – npci.org.in (accessed March 2026)
+Canva – Free Graphic Design Tool – canva.com
+HackerRank – Competitive Programming Platform – hackerrank.com
+GitHub – Code Hosting and Version Control – github.com
+LinkedIn – Professional Networking Platform – linkedin.com
+Kaggle – Data Science Platform – kaggle.com
+Google Forms – Survey and Quiz Tool – forms.google.com
+CSE0001 Digital Literacy Course Material – VIT Bhopal University, 2025–26
+Jishant Tanwar | 25BHI10093 | B.Tech CSE | VIT Bhopal University | 2025–26

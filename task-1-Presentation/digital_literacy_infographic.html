@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Digital Literacy Infographic – Jishant Tanwar</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Segoe UI', Arial, sans-serif; background: #f0f4f8; display: flex; justify-content: center; padding: 20px; }
+  .infographic {
+    width: 800px; background: #fff;
+    border-radius: 16px; overflow: hidden;
+    box-shadow: 0 8px 40px rgba(0,0,0,0.15);
+  }
+  .header {
+    background: linear-gradient(135deg, #1a237e, #1565c0);
+    color: white; text-align: center; padding: 40px 30px 30px;
+  }
+  .header h1 { font-size: 32px; font-weight: 800; letter-spacing: 1px; }
+  .header p { font-size: 15px; margin-top: 8px; opacity: 0.85; }
+  .subtitle-bar {
+    background: #ffd600; text-align: center; padding: 10px;
+    font-weight: 700; font-size: 13px; color: #1a237e; letter-spacing: 2px; text-transform: uppercase;
+  }
+  .grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0; }
+  .card {
+    padding: 28px 22px; border-right: 1px solid #e8edf2;
+    border-bottom: 1px solid #e8edf2;
+  }
+  .card:nth-child(3n) { border-right: none; }
+  .card-icon { font-size: 40px; display: block; margin-bottom: 12px; }
+  .card h2 { font-size: 16px; font-weight: 700; color: #1a237e; margin-bottom: 10px; }
+  .card p { font-size: 13px; color: #444; line-height: 1.6; }
+  .card ul { padding-left: 16px; margin-top: 8px; }
+  .card ul li { font-size: 13px; color: #444; line-height: 1.8; }
+  .card.blue { background: #e8f0fe; }
+  .card.green { background: #e8f5e9; }
+  .card.orange { background: #fff8e1; }
+  .card.red { background: #fce4ec; }
+  .card.purple { background: #f3e5f5; }
+  .card.teal { background: #e0f2f1; }
+  .stat-row {
+    display: flex; background: #1565c0; color: white; text-align: center;
+  }
+  .stat { flex: 1; padding: 20px 10px; border-right: 1px solid rgba(255,255,255,0.2); }
+  .stat:last-child { border-right: none; }
+  .stat .num { font-size: 28px; font-weight: 800; }
+  .stat .label { font-size: 11px; opacity: 0.85; margin-top: 4px; text-transform: uppercase; letter-spacing: 1px; }
+  .footer {
+    background: #1a237e; color: white; text-align: center;
+    padding: 18px; font-size: 12px; opacity: 0.9;
+  }
+  .tag {
+    display: inline-block; background: #1565c0; color: white;
+    font-size: 11px; padding: 3px 10px; border-radius: 20px; margin: 3px 2px;
+  }
+  .tag.green { background: #2e7d32; }
+  .tag.orange { background: #e65100; }
+</style>
+</head>
+<body>
+<div class="infographic">
+
+  <div class="header">
+    <h1>🌐 Digital Literacy</h1>
+    <p>A Guide for First-Year Students | VIT Bhopal University</p>
+  </div>
+  <div class="subtitle-bar">Your Roadmap to Navigating the Digital World Safely &amp; Professionally</div>
+
+  <div class="grid">
+
+    <!-- Card 1 -->
+    <div class="card blue">
+      <span class="card-icon">💡</span>
+      <h2>What is Digital Literacy?</h2>
+      <p>The ability to find, evaluate, create, and communicate information using digital technology.</p>
+      <p style="margin-top:10px">It's not just about using a phone — it's about using it <strong>wisely</strong>.</p>
+      <div style="margin-top:12px">
+        <span class="tag">Find Info</span>
+        <span class="tag">Create Content</span>
+        <span class="tag">Stay Safe</span>
+        <span class="tag">Communicate</span>
+      </div>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="card green">
+      <span class="card-icon">🔒</span>
+      <h2>Safe Internet Practices</h2>
+      <ul>
+        <li>Use strong, unique passwords</li>
+        <li>Enable two-factor authentication</li>
+        <li>Never share OTP with anyone</li>
+        <li>Check URLs before clicking links</li>
+        <li>Use VPN on public Wi-Fi</li>
+        <li>Report suspicious messages</li>
+      </ul>
+    </div>
+
+    <!-- Card 3 -->
+    <div class="card orange">
+      <span class="card-icon">👤</span>
+      <h2>Professional Online Presence</h2>
+      <ul>
+        <li>Create a GitHub profile</li>
+        <li>Build your LinkedIn profile</li>
+        <li>Keep profiles updated yearly</li>
+        <li>Think before you post</li>
+        <li>Use your college email for signups</li>
+      </ul>
+    </div>
+
+    <!-- Card 4 -->
+    <div class="card teal">
+      <span class="card-icon">🛠️</span>
+      <h2>Useful Digital Tools</h2>
+      <ul>
+        <li><strong>Canva</strong> – Design infographics</li>
+        <li><strong>Google Drive</strong> – Store &amp; share files</li>
+        <li><strong>HackerRank</strong> – Practice coding</li>
+        <li><strong>Notion</strong> – Note-taking &amp; planning</li>
+        <li><strong>Grammarly</strong> – Writing assistant</li>
+      </ul>
+    </div>
+
+    <!-- Card 5 -->
+    <div class="card purple">
+      <span class="card-icon">📧</span>
+      <h2>Email Etiquette</h2>
+      <ul>
+        <li>Clear, specific subject line</li>
+        <li>Address professor as "Dr." or "Prof."</li>
+        <li>Keep emails short &amp; structured</li>
+        <li>Proofread before sending</li>
+        <li>Reply within 24 hours</li>
+        <li>Sign off with your full name + reg no.</li>
+      </ul>
+    </div>
+
+    <!-- Card 6 -->
+    <div class="card red">
+      <span class="card-icon">⚠️</span>
+      <h2>Cybercrime Warning Signs</h2>
+      <ul>
+        <li>"Send Rs. 1 to get Rs. 1000" → SCAM</li>
+        <li>Urgent OTP requests → NEVER share</li>
+        <li>Unverified QR codes → DANGER</li>
+        <li>Unknown job offers → VERIFY first</li>
+        <li>Report to: <strong>cybercrime.gov.in</strong></li>
+        <li>Helpline: <strong>1930</strong> (24×7)</li>
+      </ul>
+    </div>
+
+  </div>
+
+  <div class="stat-row">
+    <div class="stat">
+      <div class="num">5.16B</div>
+      <div class="label">Internet Users Worldwide</div>
+    </div>
+    <div class="stat">
+      <div class="num">₹1,750Cr</div>
+      <div class="label">Lost to Cyber Fraud in India (2023)</div>
+    </div>
+    <div class="stat">
+      <div class="num">1930</div>
+      <div class="label">Cyber Crime Helpline</div>
+    </div>
+    <div class="stat">
+      <div class="num">2 min</div>
+      <div class="label">Average Phishing Response Time</div>
+    </div>
+  </div>
+
+  <div class="footer">
+    Made by Jishant Tanwar (25BHI10093) | CSE0001 – Digital Literacy | VIT Bhopal University 2025–26<br>
+    <span style="opacity:0.7; font-size:11px">Designed as part of the Student Digital Ambassador project assignment</span>
+  </div>
+
+</div>
+</body>
+</html>

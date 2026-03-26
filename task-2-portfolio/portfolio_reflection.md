@@ -7,6 +7,7 @@ GitHub is the world's largest platform for hosting code repositories and collabo
 
 
 
+<img width="1470" height="883" alt="Screenshot 2026-03-26 at 9 38 15 PM" src="https://github.com/user-attachments/assets/cd2cb665-eeb0-4845-99fc-b3799c070505" />
 
 
 
@@ -19,9 +20,13 @@ GitHub is the world's largest platform for hosting code repositories and collabo
 
 ### 2. LinkedIn (www.linkedin.com/in/jishant-tanwar-0a5991333)
 LinkedIn is the leading professional networking platform used by recruiters, hiring managers, and academics worldwide. It functions like a digital CV that is always accessible. I filled in the Education section with my B.Tech (CSE) degree at VIT Bhopal University and expected graduation year (2029).
+<img width="1470" height="956" alt="Screenshot 2026-03-26 at 9 38 53 PM" src="https://github.com/user-attachments/assets/ebe6a32d-1e83-4521-8f9d-af4da61e00c2" />
+
 
 ### 3. Kaggle (https://www.kaggle.com/jishanttanwar)
 Kaggle is a data science and machine learning competition platform run by Google. Students use it to practise Python, work with real-world datasets, and participate in global competitions. Even as a first-year student, having a Kaggle profile signals interest in data science to future employers.
+<img width="1470" height="886" alt="Screenshot 2026-03-26 at 9 39 32 PM" src="https://github.com/user-attachments/assets/d48027a2-8bac-4304-b347-b952194d59c3" />
+
 
 ## How I Plan to Use These Platforms Over Four Years
 

@@ -8,7 +8,7 @@ A practical checklist for college students in India to stay protected from onlin
 
 ---
 
-## 🛡️ General Digital Safety
+##  General Digital Safety
 
 1. **Use strong, unique passwords for every account.**
    Combine uppercase letters, numbers, and symbols. Use a password manager (e.g., Bitwarden) instead of reusing the same password everywhere.
@@ -30,7 +30,7 @@ A practical checklist for college students in India to stay protected from onlin
 
 ---
 
-## 💰 UPI & Financial Safety (Specific to Indian Students)
+##  UPI & Financial Safety (Specific to Indian Students)
 
 7. **Scanning a QR code always SENDS money — it never receives it.**
    This is the most common UPI myth exploited by fraudsters. If someone sends you a QR code "to receive payment," it is a scam. To receive money, you only need to share your UPI ID.
@@ -40,7 +40,7 @@ A practical checklist for college students in India to stay protected from onlin
 
 ---
 
-## 📢 Where to Report Cybercrime in India
+##  Where to Report Cybercrime in India
 
 | Resource | Details |
 |----------|---------|

@@ -1,6 +1,6 @@
 # Stay Safe Online – Cybercrime Prevention Checklist
 
-**CSE0001 – Digital Literacy | Task 5 | Aryan Sharma (24BCE0001)**
+**CSE0001 – Digital Literacy | Task 5 | Jishant Tanwar (25BHI10093)**
 
 ---
 
@@ -52,4 +52,4 @@ A practical checklist for college students in India to stay protected from onlin
 
 ---
 
-*Aryan Sharma | 24BCE0001 | VIT Bhopal University | CSE0001 – Digital Literacy | 2024–25*
+*Jishant Tanwar | 25BHI10093 | VIT Bhopal University | CSE0001 – Digital Literacy | 2025–26*

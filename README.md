@@ -18,7 +18,7 @@ Set up professional profiles on GitHub, LinkedIn, and Kaggle. GitHub profile REA
 
 Task 3 — Coding & Collaboration Platforms
 Completed the "Solve Me First" beginner challenge on HackerRank. Built a Digital Literacy Awareness Quiz using Google Forms with 5 questions (mix of MCQ and short answer).
-🔗 Digital Literacy Quiz (Google Form): forms.gle/digitalquiz-vitb-2024
+ Digital Literacy Quiz (Google Form): https://docs.google.com/forms/d/e/1FAIpQLScvA0FRokZrptRoUEDtiYmveMVxRBVt-spWGgv6qZG9kv9TcQ/viewform?usp=dialog
 
 
 Task 4 — Professional Email & Etiquette Guide

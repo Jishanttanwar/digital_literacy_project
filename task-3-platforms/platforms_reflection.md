@@ -5,7 +5,7 @@
 **Platform used:** HackerRank (hackerrank.com)
 
 I created an account on HackerRank and completed the **"Solve Me First"** challenge under the Algorithms section. The challenge asks you to write a function that adds two numbers — it is intentionally simple to help beginners understand how the platform's input/output system works. I received the task's badge and a score of 1/1.
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2866f6bc-28a7-4135-a246-087275a27b00" />
+<img width="1470" height="885" alt="Screenshot 2026-03-27 at 10 26 18 AM" src="https://github.com/user-attachments/assets/8baa1d9b-b1b0-41f5-9508-0cc13efd175a" />
 
 
 I also attempted the **"Python: Introduction"** challenge, which tests basic print statements and variable assignments. Both challenges were completed successfully.
